@@ -44,6 +44,10 @@ iPhone keyboard. A delivery you are not ready for has a **Later** button.
 
 
 
+### 0.20.1.2 — no more dead Exit buttons
+
+- The main menu's **Exit**, the desktop start menu's **Quit** and the phone's **Quit Game** are gone on iPhone (an iPhone app is closed by swiping it away). The PC keeps all three.
+
 ### 0.20.1.1 — first iPhone beta
 
 - Hackfest 0.20.1 on iPhone: the full game, landscape, touch (tap = click).
