@@ -1,10 +1,15 @@
 {
- "retired": 2,
+ "retired": 4,
  "history": [
   {
    "asset": "Hackfest-0.20.1.1.ipa",
    "downloads": 2,
    "retired": "2026-10-24 11:06:57"
+  },
+  {
+   "asset": "Hackfest-0.20.1.2.ipa",
+   "downloads": 2,
+   "retired": "2026-10-27 12:36:00"
   }
  ],
  "note": "downloads of betas whose release was replaced (AltStore + direct)"

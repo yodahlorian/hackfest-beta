@@ -44,6 +44,14 @@ iPhone keyboard. A delivery you are not ready for has a **Later** button.
 
 
 
+### 0.20.1.3 — 2026-10-27
+
+- **The Notepad stays above the keyboard.** Once you had written a few lines you were typing under the keyboard; the pad is shorter on iPhone now, so the whole window (and its ✕) stays in view. If a text box would ever end up under the keyboard, the screen slides up until the keyboard closes.
+- **No more PC keys in the game's words.** Windows and the phone said "ESC", the PC builder said "click the open case slot", and two lock puzzles said "Click the numbers…" / "Click the glyph…". They say tap now, and the ✕ / Home buttons are the way out.
+- **Tapping the motherboard asks first.** One tap on the board in the PC builder used to pull every part out of your rig. Now it asks "Pull the motherboard?" (the Remove board button still works in one tap).
+- **What the PC shows on hover is printed on iPhone:** why a RipStore item or dock is greyed out ("Need 10 RC — you have 3", "No drive has 800 MB free"), each Crapazon category's help, and the motherboard slot legend (c = CPU · r = RAM · g = GPU · s = Storage · p = PSU). Hiding the objective tells you how to bring it back.
+- **The CryptoMiner and Ransomware no longer say they earn "0/s"** in the stores (the miner pays RipCoin, ransomware one big payout). On PC too.
+
 ### 0.20.1.2 — no more dead Exit buttons
 
 - The main menu's **Exit**, the desktop start menu's **Quit** and the phone's **Quit Game** are gone on iPhone (an iPhone app is closed by swiping it away). The PC keeps all three.
